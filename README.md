@@ -7,6 +7,7 @@ Instalação
 ------------
 
 * Necessário NPM para utilização da mesma.
+------------
 WINDOWS:
 ------------
 

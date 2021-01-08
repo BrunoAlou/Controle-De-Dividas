@@ -1,7 +1,7 @@
 # Controle-De-Dividas
 
 [Controle-De-Dividas][1] é uma aplicação simples para registro e controle de dívidas. A mesma foi criada como objetivo de aprendizado. Foram utilizadas para sua construção
-as tecnologias (React[2] e Adonis[3]).
+as tecnologias [React][2] e [Adonis][3]).
 
 Instalação
 ------------

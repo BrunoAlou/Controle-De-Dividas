@@ -1,7 +1,7 @@
 # Controle-De-Dividas
 
 [Controle-De-Dividas][1] é uma aplicação simples para registro e controle de dívidas. A mesma foi criada como objetivo de aprendizado. Foram utilizadas para sua construção
-as tencnologias (React e Adonis).
+as tecnologias (React[2] e Adonis[3]).
 
 Instalação
 ------------
@@ -36,4 +36,6 @@ About Us
 --------
 
 
-[1]: https://symfony.com
+[1]: https://github.com/BrunoAlou/Controle-De-Dividas
+[2]: https://pt-br.reactjs.org
+[3]: https://adonisjs.com

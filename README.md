@@ -8,10 +8,15 @@ Instalação
 
 * Necessário NPM para utilização da mesma.
 WINDOWS:
+------------
+
     *API Adonis
         >Acesse a pasta raiz do projeto através do cmd(Prompt de Comando).
         >Execute o seguinte comando:
             cd apiAdonis & npm install & adonis migration:run & adonis serve --dev
+            
+------------
+
     *React
         >Acesse a pasta raiz do projeto através de uma nova janela do cmd(Prompt de Comando).
         >Execute o seguinte comando:

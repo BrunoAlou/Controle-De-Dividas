@@ -14,7 +14,7 @@ WINDOWS:
     *API Adonis
         >Acesse a pasta raiz do projeto através do cmd(Prompt de Comando).
         >Execute o seguinte comando:
-            cd apiAdonis & npm install & adonis migration:run & adonis serve --dev
+            cd adonis & npm install & adonis migration:run & adonis serve --dev
             
 ------------
 
